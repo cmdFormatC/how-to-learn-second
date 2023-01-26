@@ -1,0 +1,8 @@
+.damping {
+    opacity: 1;
+    transition: 0.3s ease-in-out;
+}
+
+.damping:hover {
+    opacity: 0.5;
+}
