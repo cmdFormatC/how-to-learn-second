@@ -1,7 +1,7 @@
 .cards__item {
     width: 240px;
     padding-right: 100px;
-    list-style-type: none
+    list-style-type: none;
 }
 .cards__item:nth-child(3) {
     padding-right: 0;
